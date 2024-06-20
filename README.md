@@ -15,6 +15,8 @@ You will learn, the most important part of the collaborative coding process is C
 ## Work / Life Balance :
 
 
+<img src="https://static.wikia.nocookie.net/lotrfanon/images/3/34/Frodo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20090417063622/>
+
 We understand that people in this class have responsibilities as parents, partners, and everything else in life. It is **Okay** to speak to your group about these responsibilities and and time needed for them (dropping off/picking up kids from school, appointments, walking your dog, etc). It is **Not Okay** to prevent / guilt your team mates away from any of these responsbilities, and to not tell your team about them before taking time out for them.
 
 The important thing is **Balance** and making sure that you keep this class as your priority, while not hindering the other parts of your life.
@@ -23,7 +25,7 @@ The important thing is **Balance** and making sure that you keep this class as y
 
 ## Responsibilities and Tasks
 
-<img src="https://images.squarespace-cdn.com/content/v1/5d35ea13690f4000010def45/1578501132694-SI05PXF9BLZFOFM20R8R/I-can-carry-you-800x401.jpg"
+<img src="https://images.squarespace-cdn.com/content/v1/5d35ea13690f4000010def45/1578501132694-SI05PXF9BLZFOFM20R8R/I-can-carry-you-800x401.jpg"/>
 
 One of the most important parts of collaborative group work is taking on responsibilities that you can accomplish. You will not gain any bonus points for the project by taking on more parts than you can accomplish, especially if you come to your team last minute and need them to pick up your Slack. We want you to pick tasks that will challenge you that you will learn from, but not too much to overwhelm you that you will not be able to complete your task, and learn from this.
 
