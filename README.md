@@ -13,8 +13,16 @@ You will learn, the most important part of the collaborative coding process is C
 ## Work / Life Balance :
 
 
-We understand that people in this class have responsibilities as parents, partners, and everything else in life
+We understand that people in this class have responsibilities as parents, partners, and everything else in life. It is **Okay** to speak to your group about these responsibilities and and time needed for them (dropping off/picking up kids from school, appointments, walking your dog, etc). It is **Not Okay** to prevent / guilt your team mates away from any of these responsbilities, and to not tell your team about them before taking time out for them.
+
+The important thing is **Balance** and making sure that you keep this class as your priority, while not hindering the other parts of your life.
+
+*You will not be penalized if you need to take an hour off one night to go to the dentist, you will be if you forget to tell your group that you'll be taking 3 days off for a Booze Cruise in the Caribbean.*
 
 ## Responsibilities and Tasks
 
-One of the most important parts of collaborative group work is taking on responsibilities that you can accomplish
+One of the most important parts of collaborative group work is taking on responsibilities that you can accomplish. You will not gain any bonus points for the project by taking on more parts than you can accomplish, especially if you come to your team last minute and need them to pick up your Slack. We want you to pick tasks that will challenge you that you will learn from, but not too much to overwhelm you that you will not be able to complete your task, and learn from this.
+
+We want you to use Trello to your advantage so your group knows what each member's tasks and deadlines will be for them, and can help each other through them.
+
+Again, the most important part of this is going to be *balance* in your work. It is Okay to be a bit behind on one task, especially if it is a difficult one. It is **not** okay to castigate or belittle any of your team mates if they have trouble accomplishing a task. However, it is crucial to be open with your team about your challenges with each task - if we see that any team mate has missed a due date for more than 2 of your individual tasks, your instructors will have to intervene, to measure what the contributions will be for credit to be recieved. 
