@@ -38,7 +38,7 @@ Again, the most important part of this is going to be *balance* in your work. It
 
 ## Plagiarism
 
-<img src="https://itisalwayssunrisesomewhere.wordpress.com/wp-content/uploads/2013/01/frodosamgollum3.jpg/>
+<img src="https://itisalwayssunrisesomewhere.wordpress.com/wp-content/uploads/2013/01/frodosamgollum3.jpg"/>
 
 Plagiarism in Group Projects is something we take seriously here at GA. While each case is different, know that if you are knowingly plagiarising your group, or if you are aware of a group member plagiarising major parts of the code, we may need to pursue some kind of action against an individual member, or the whole group.
 
