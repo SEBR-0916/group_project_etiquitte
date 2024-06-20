@@ -2,11 +2,18 @@
 
 <img src ="https://lawliberty.org/app/uploads/2020/05/Council-of-Elrond-1060x598.jpg"/>
 
-As we move forward in our class, we are going to be working more and more in collaborative groups for projects, labs, and assignments. These group coding sessions are ways to prepare you for working in the field, when doing paired programming and working with very different people from different areas, time zones, and in some cases, countries and continents! Our goal is to give you the experience of working with these people in both asking for, and providing help and resources. To help guide you in this professional development path, there are a few peices of ettiquite and norms that we want to begin working with.
+- As we move forward in our class, we are going to be working more and more in collaborative groups for projects, labs, and assignments. These group coding sessions are ways to prepare you for working in the field, when paired programming and working with different people from different areas, time zones, and in some cases, countries and continents!
+- Our goal is to give you the experience of working with these people in both asking for, and providing help and resources. To help guide you in this professional development path, there are a few peices of ettiquite and norms that we want to begin working with.
 
 
-And whether it is with Wireframe designs & Figma, group planning & Trello, and the building up of Component Heirarchy Diagrams for React, and Entity Relation Diagrams for your Backend, wireframing and pseudocoding to plan out your first stems, seeing how important it is to put yourselves on the same page, and use our adjacent skills and technologies to streamline and help aid in our process.
+## Planning
 
+<img src="https://tolkiengateway.net/w/images/c/ce/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Council_of_Elrond2.jpg"/>
+
+
+Whether it is with Wireframe designs & Figma, group planning & Trello, and the building up of Component Heirarchy Diagrams for React, and Entity Relation Diagrams for your Backend, wireframing and pseudocoding to plan out your first stems, seeing how important it is to put yourselves on the same page, and use our adjacent skills and technologies to streamline and help aid in our process.
+
+If people are trained and proficient with any of these technologies, or other technologies like Photoshop, GIMP, Illustrator, or anything else, use these to your advantage, and discuss the style, functionality, user stories, and logic that your group will want to work with
 
 You will learn, the most important part of the collaborative coding process is Communication. With your teammates, and with your instructors, we want to know what you are expecting while we are in these group work sessions. The best thing you can do is share any relevent information with us; keeping quiet and not talking about anything you can forsee is only going to cause more problems down the road
 
