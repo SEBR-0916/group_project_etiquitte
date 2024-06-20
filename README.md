@@ -11,20 +11,22 @@
 <img src="https://tolkiengateway.net/w/images/c/ce/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Council_of_Elrond2.jpg"/>
 
 
-Whether it is with Wireframe designs & Figma, group planning & Trello, and the building up of Component Heirarchy Diagrams for React, and Entity Relation Diagrams for your Backend, wireframing and pseudocoding to plan out your first stems, seeing how important it is to put yourselves on the same page, and use our adjacent skills and technologies to streamline and help aid in our process.
+- Whether it is with Wireframe designs & Figma, group planning & Trello, and the building up of Component Heirarchy Diagrams for React, and Entity Relation Diagrams for your Backend, wireframing and pseudocoding to plan out your first stems, seeing how important it is to put yourselves on the same page, and use our adjacent skills and technologies to streamline and help aid in our process.
 
-You will learn, the most important part of the collaborative coding process is Communication. With your teammates, and with your instructors, we want to know what you are expecting while we are in these group work sessions. The best thing you can do is share any relevent information with us; keeping quiet and not talking about anything you can forsee is only going to cause more problems down the road
+- You will learn, the most important part of the collaborative coding process is Communication. With your teammates, and with your instructors, we want to know what you are expecting while we are in these group work sessions. The best thing you can do is share any relevent information with us; keeping quiet and not talking about anything you can forsee is only going to cause more problems down the road
 
 ## Work / Life Balance :
 
 
 <img src="https://static.wikia.nocookie.net/lotrfanon/images/3/34/Frodo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20090417063622"/>
 
-We understand that people in this class have responsibilities as parents, partners, and everything else in life. It is **Okay** to speak to your group about these responsibilities and and time needed for them (dropping off/picking up kids from school, appointments, walking your dog, etc). It is **Not Okay** to prevent / guilt your team mates away from any of these responsbilities, and to not tell your team about them before taking time out for them.
+- We understand that people in this class have responsibilities as parents, partners, and everything else in life. It is **Okay** to speak to your group about these responsibilities and and time needed for them (dropping off/picking up kids from school, appointments, walking your dog, etc). It is **Not Okay** to prevent / guilt your team mates away from any of these responsbilities, and to not tell your team about them before taking time out for them.
 
-The important thing is **Balance** and making sure that you keep this class as your priority, while not hindering the other parts of your life.
+- The important thing is **Balance** and making sure that you keep this class as your priority, while not hindering the other parts of your life.
 
 *You will not be penalized if you need to take an hour off one night to go to the dentist, you will be if you forget to tell your group that you'll be taking 3 days off for a Booze Cruise in the Caribbean.*
+
+- We do not want anyone to overstep their bounds and cause undue stress for your group. These are meant to be learning experiences for you and your peers. If we hear of any group member acting out of line to another, your instructional team may need to intervene.
 
 ## Responsibilities and Tasks
 
