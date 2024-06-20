@@ -34,3 +34,12 @@ We want you to use Trello to your advantage so your group knows what each member
 The goal of our group activities is to have each member of your group contribute and learn. We do not want one person to be carrying the entirety of the group. It isn't fair to them, and it does not create an optimal learning experience for each other member
 
 Again, the most important part of this is going to be *balance* in your work. It is Okay to be a bit behind on one task, especially if it is a difficult one. It is **not** okay to castigate or belittle any of your team mates if they have trouble accomplishing a task. However, it is crucial to be open with your team about your challenges with each task - if we see that any team mate has missed a due date for more than 2 of your individual tasks, your instructors will have to intervene, to measure what the contributions will be for credit to be recieved. 
+
+
+## Plagiarism
+
+<img src="https://itisalwayssunrisesomewhere.wordpress.com/wp-content/uploads/2013/01/frodosamgollum3.jpg/>
+
+Plagiarism in Group Projects is something we take seriously here at GA. While each case is different, know that if you are knowingly plagiarising your group, or if you are aware of a group member plagiarising major parts of the code, we may need to pursue some kind of action against an individual member, or the whole group.
+
+Your best move is to consult with your instructional team about anything you are concerned about to ensure that you and your group are all acting within GA's official Plagiarism guidelines
