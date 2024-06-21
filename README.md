@@ -56,7 +56,7 @@
 
 - Treat each project in the class as you would a task in the workspace. It is okay to disagree about certain parts of code (Flex vs Grid? Hexcodes vs RGBA?), but make sure you allow each group member to speak about their opinions and *Why* they want to work in a certain way.
 
-- **Do Not*** include anything that is culturally insensitive or offensive into any part of your project. You may think that edgy memes are funny: your teammates and managers may not. Keep them to yourself. 5 seconds of *lolz* is not worth potentially being fired, canned, sacked, or removed from the program
+- **Do Not** include anything that is culturally insensitive or offensive into any part of your project. You may think that edgy memes are funny: your teammates and managers may not. Keep them to yourself. 5 seconds of *lolz* is not worth potentially being fired, canned, sacked, or removed from the program
 
 - If we hear about people overwriting and deleting other member's contributions, stonewalling against another group member's ideas, or the use of any unprofessional, disrespectful, or other rude language or actions during this project, it will qualify as a Code of Conduct issue, and your instructional team will need to act accordingly
 
