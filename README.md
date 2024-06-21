@@ -49,7 +49,7 @@
 
 ## Respect and Professionalism
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gEnCAtyi_cUxdvcFzy16YZx0FGpV-IK8lQ&s"/>
+<img src="https://itisalwayssunrisesomewhere.wordpress.com/wp-content/uploads/2013/01/frodosamgollum3.jpg"/>
 
 - You can expect your management, team leaders, coworkers, and investors to have a strict, Zero Tolerance policy on any rude, disrespectful, or unprofessional actions. So we are going to follow the same guidelines in preparation.
 
@@ -62,7 +62,7 @@
 
 ## Plagiarism
 
-<img src="https://itisalwayssunrisesomewhere.wordpress.com/wp-content/uploads/2013/01/frodosamgollum3.jpg"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gEnCAtyi_cUxdvcFzy16YZx0FGpV-IK8lQ&s"/>
 
 - Plagiarism in Group Projects is something we take seriously here at GA. While each case is different, know that if you are knowingly plagiarising your group, or if you are aware of a group member plagiarising major parts of the code, we may need to pursue some kind of action against an individual member, or the whole group.
 
