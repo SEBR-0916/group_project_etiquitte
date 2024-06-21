@@ -2,20 +2,25 @@
 
 <img src ="https://lawliberty.org/app/uploads/2020/05/Council-of-Elrond-1060x598.jpg"/>
 
-- As we move forward in our class, we are going to be working more and more in collaborative groups for projects, labs, and assignments. These group coding sessions are ways to prepare you for working in the field, when paired programming and working with different people from different areas, time zones, and in some cases, countries and continents!
-- Our goal is to give you the experience of working with these people in both asking for, and providing help and resources. To help guide you in this professional development path, there are a few peices of ettiquite and norms that we want to begin working with.
+- As we move forward in our class, we are going to be working more and more in collaborative groups for projects, labs, and assignments. These group coding sessions are ways to prepare you for working in the field, when paired programming and working with different people from different areas, time zones, and in some cases, countries and continents is going to be an every day experience
 
+- You don't have to love every single member of your team. Your squad does not need to be your best friends. What matters most is treating them respectfully, professionally, and being able to work with them, both asking for, and providing, help & assistance when needed.
+  
+- Our goal is to give you the experience of working with other people, and building up the collaborative and professional skills that will make you a star on your team. To help guide you in this professional development path, there are a few peices of ettiquite and norms that we want to begin working with.
+
+- You will quickly learn, the most important part of the collaborative coding process is Communication. With your teammates, and with your instructors, we want to know what you are expecting while we are in these group work sessions. The best thing you can do is share any relevent information with us; keeping quiet and not talking about anything you can forsee is only going to cause more problems down the road!
 
 ## Planning
 
 <img src="https://tolkiengateway.net/w/images/c/ce/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Council_of_Elrond2.jpg"/>
 
 
-- Whether it is with Wireframe designs & Figma, group planning & Trello, and the building up of Component Heirarchy Diagrams for React, and Entity Relation Diagrams for your Backend, wireframing and pseudocoding to plan out your first stems, seeing how important it is to put yourselves on the same page, and use our adjacent skills and technologies to streamline and help aid in our process.
+- Whether it is with Wireframe designs & Figma, group planning & Trello, the building up of Component Heirarchy Diagrams for React, Entity Relation Diagrams for your Backend, wireframing and pseudocoding to plan out your first stems, it is absolutely crucial to take the initial planning steps seriously, to put your team on the same page
 
-- Your team should complete each step of planning - from  Models and Data to Style and Design - before any code is written, that way all members know their task and will work together. Writing out any serious blocks of code before this step can cause issues between the team, and while it might seem like a way to get ahead on a few steps, there is a strong possibility that it will need to be rewritten, and will not be time well spent
+  
+- Your team should complete each step of planning - from  Models and Data to Style and Design - before any code is written, that way all members know their task and will work together. Writing out any serious blocks of code before this step can cause issues between the team, and while it might seem like a way to get ahead on a few steps, there is a strong possibility that it will need to be rewritten or deleted, and will not be time well spent
 
-- You will learn, the most important part of the collaborative coding process is Communication. With your teammates, and with your instructors, we want to know what you are expecting while we are in these group work sessions. The best thing you can do is share any relevent information with us; keeping quiet and not talking about anything you can forsee is only going to cause more problems down the road
+- The goal of ERD's, Wireframes, Component Diagrams, & other planning steps is to discuss your ideas and have constructive criticism and feedback. "This is an interesting idea, is there a reason we aren't doing *this* instead" is a fair thing to say to a group. "This is stupid and a bad idea" is not. 
 
 ## Work / Life Balance :
 
