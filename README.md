@@ -63,8 +63,18 @@
 
 ## Plagiarism
 
-<img src="https://pbs.twimg.com/media/CYZrGRhUQAAl-YE.jpg"/>
+<img src="https://qph.cf2.quoracdn.net/main-qimg-9b5071ac8595cb7650592334821c2cb1-lq"/>
 
 - Plagiarism in Group Projects is something we take seriously here at GA. While each case is different, know that if you are knowingly plagiarising your group, or if you are aware of a group member plagiarising major parts of the code, we may need to pursue some kind of action against an individual member, or the whole group.
 
 - Your best move is to consult with your instructional team about anything you are concerned about to ensure that you and your group are all acting within GA's official Plagiarism guidelines
+
+
+  ## Recap
+
+  <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/04/Lord-of-the-Rings-Ending.jpg"/>
+
+
+- The most important part of Collaborative Group Work is going to be open and honest communication. If you are having difficulty with a task, if something serious has come up in your life, if you really feel that a part of the project could be improved by changing something, tell your group. Communication is a skill into itself - and can even be more difficult than writing the code itself!
+
+  - Your instructors are on your side through this, as these group projects are a tremendous way to build up your skills for the workplace. If you have any additional questions, or would like any more guidance on this, do not hesitate to ask!
