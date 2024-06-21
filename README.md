@@ -31,7 +31,7 @@
 
 - The important thing is **Balance** and making sure that you keep this class as your priority, while not hindering the other parts of your life.
 
-*You will not be penalized if you need to take an hour off one night to go to the dentist, you will be if you forget to tell your group that you'll be taking 3 days off for a Booze Cruise in the Caribbean.*
+- *You will not be penalized if you need to take an hour off one night to go to the dentist, you will be if you forget to tell your group that you'll be taking 3 days off for a Booze Cruise in the Caribbean.*
 
 - We do not want anyone to overstep their bounds and cause undue stress for your group. These are meant to be learning experiences for you and your peers. If we hear of any group member acting out of line to another, your instructional team may need to intervene.
 
@@ -62,7 +62,7 @@
 
 ## Plagiarism
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gEnCAtyi_cUxdvcFzy16YZx0FGpV-IK8lQ&s"/>
+<img src="https://pbs.twimg.com/media/CYZrGRhUQAAl-YE.jpg"/>
 
 - Plagiarism in Group Projects is something we take seriously here at GA. While each case is different, know that if you are knowingly plagiarising your group, or if you are aware of a group member plagiarising major parts of the code, we may need to pursue some kind of action against an individual member, or the whole group.
 
