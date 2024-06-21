@@ -1,4 +1,4 @@
-# Group Project Ettiquite
+# Group Project Etiquitte
 
 <img src ="https://lawliberty.org/app/uploads/2020/05/Council-of-Elrond-1060x598.jpg"/>
 
