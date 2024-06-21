@@ -13,6 +13,8 @@
 
 - Whether it is with Wireframe designs & Figma, group planning & Trello, and the building up of Component Heirarchy Diagrams for React, and Entity Relation Diagrams for your Backend, wireframing and pseudocoding to plan out your first stems, seeing how important it is to put yourselves on the same page, and use our adjacent skills and technologies to streamline and help aid in our process.
 
+- Your team should complete each step of planning - from  Models and Data to Style and Design - before any code is written, that way all members know their task and will work together. Writing out any serious blocks of code before this step can cause issues between the team, and while it might seem like a way to get ahead on a few steps, there is a strong possibility that it will need to be rewritten, and will not be time well spent
+
 - You will learn, the most important part of the collaborative coding process is Communication. With your teammates, and with your instructors, we want to know what you are expecting while we are in these group work sessions. The best thing you can do is share any relevent information with us; keeping quiet and not talking about anything you can forsee is only going to cause more problems down the road
 
 ## Work / Life Balance :
