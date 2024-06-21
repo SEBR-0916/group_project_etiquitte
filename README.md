@@ -20,7 +20,7 @@
   
 - Your team should complete each step of planning - from  Models and Data to Style and Design - before any code is written, that way all members know their task and will work together. Writing out any serious blocks of code before this step can cause issues between the team, and while it might seem like a way to get ahead on a few steps, there is a strong possibility that it will need to be rewritten or deleted, and will not be time well spent
 
-- The goal of ERD's, Wireframes, Component Diagrams, & other planning steps is to discuss your ideas and have constructive criticism and feedback. "This is an interesting idea, is there a reason we aren't doing *this* instead" is a fair thing to say to a group. "This is stupid and a bad idea" is not. 
+- The goal of ERD's, Wireframes, Component Diagrams, & other planning steps is to discuss your ideas and have constructive criticism and feedback. "This is an interesting idea, is there a reason we aren't doing *this* instead?" is a fair thing to say to a group. "This is stupid and a bad idea" is not. 
 
 ## Work / Life Balance :
 
@@ -29,11 +29,13 @@
 
 - We understand that people in this class have responsibilities as parents, partners, and everything else in life. It is **Okay** to speak to your group about these responsibilities and and time needed for them (dropping off/picking up kids from school, appointments, walking your dog, etc). It is **Not Okay** to prevent / guilt your team mates away from any of these responsbilities, and to not tell your team about them before taking time out for them.
 
+- We do not want anyone to overstep their bounds and cause undue stress for your group. These are meant to be learning experiences for you and your peers. If we hear of any group member acting out of line to another, your instructional team may need to intervene.
+
 - The important thing is **Balance** and making sure that you keep this class as your priority, while not hindering the other parts of your life.
 
 - *You will not be penalized if you need to take an hour off one night to go to the dentist, you will be if you forget to tell your group that you'll be taking 3 days off for a Booze Cruise in the Caribbean.*
 
-- We do not want anyone to overstep their bounds and cause undue stress for your group. These are meant to be learning experiences for you and your peers. If we hear of any group member acting out of line to another, your instructional team may need to intervene.
+
 
 ## Responsibilities and Tasks
 
@@ -45,7 +47,7 @@
 
 - The goal of our group activities is to have each member of your group contribute and learn. We do not want one person to be carrying the entirety of the group. It isn't fair to them, and it does not create an optimal learning experience for each other member
 
-- Again, the most important part of this is going to be *balance* in your work. It is Okay to be a bit behind on one task, especially if it is a difficult one. It is **not** okay to castigate or belittle any of your team mates if they have trouble accomplishing a task. However, it is crucial to be open with your team about your challenges with each task - if we see that any team mate has missed a due date for more than 2 of your individual tasks, your instructors will have to intervene, to measure what the contributions will be for credit to be recieved. 
+- It is Okay to be a bit behind on one task, especially if it is a difficult one. It is **not** okay to castigate or belittle any of your team mates if they have trouble accomplishing a task. However, it is crucial to be open with your team about your challenges with each task - if we see that any team mate has missed a due date for more than 2 of your individual tasks, your instructors will have to intervene, to measure what the contributions will be for credit to be recieved. 
 
 ## Respect and Professionalism
 
