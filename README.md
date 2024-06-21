@@ -34,29 +34,31 @@
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d35ea13690f4000010def45/1578501132694-SI05PXF9BLZFOFM20R8R/I-can-carry-you-800x401.jpg"/>
 
-One of the most important parts of collaborative group work is taking on responsibilities that you can accomplish. You will not gain any bonus points for the project by taking on more parts than you can accomplish, especially if you come to your team last minute and need them to pick up your Slack. We want you to pick tasks that will challenge you that you will learn from, but not too much to overwhelm you that you will not be able to complete your task, and learn from this.
+- One of the most important parts of collaborative group work is taking on responsibilities that you can accomplish. You will *not* gain any bonus points for the project by taking on more parts than you can accomplish, especially if you come to your team last minute and need them to pick up your Slack. We want you to pick tasks that will challenge you that you will learn from, but not too much to overwhelm you that you will not be able to complete your task, and learn from this.
 
-We want you to use Trello to your advantage so your group knows what each member's tasks and deadlines will be for them, and can help each other through them.
+- Use Trello to your advantage so your group knows what each member's tasks and deadlines will be for them, and can help each other through them.
 
-The goal of our group activities is to have each member of your group contribute and learn. We do not want one person to be carrying the entirety of the group. It isn't fair to them, and it does not create an optimal learning experience for each other member
+- The goal of our group activities is to have each member of your group contribute and learn. We do not want one person to be carrying the entirety of the group. It isn't fair to them, and it does not create an optimal learning experience for each other member
 
-Again, the most important part of this is going to be *balance* in your work. It is Okay to be a bit behind on one task, especially if it is a difficult one. It is **not** okay to castigate or belittle any of your team mates if they have trouble accomplishing a task. However, it is crucial to be open with your team about your challenges with each task - if we see that any team mate has missed a due date for more than 2 of your individual tasks, your instructors will have to intervene, to measure what the contributions will be for credit to be recieved. 
+- Again, the most important part of this is going to be *balance* in your work. It is Okay to be a bit behind on one task, especially if it is a difficult one. It is **not** okay to castigate or belittle any of your team mates if they have trouble accomplishing a task. However, it is crucial to be open with your team about your challenges with each task - if we see that any team mate has missed a due date for more than 2 of your individual tasks, your instructors will have to intervene, to measure what the contributions will be for credit to be recieved. 
 
 ## Respect and Professionalism
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gEnCAtyi_cUxdvcFzy16YZx0FGpV-IK8lQ&s"/>
 
-You can expect your management, team leaders, coworkers, and investors to have a strict, Zero Tolerance policy on any rude, disrespectful, or unprofessional actions. So we are going to follow the same guidelines in preparation.
+- You can expect your management, team leaders, coworkers, and investors to have a strict, Zero Tolerance policy on any rude, disrespectful, or unprofessional actions. So we are going to follow the same guidelines in preparation.
 
-Treat each project in the class as you would a task in the workspace. It is okay to disagree about certain parts of code (Flex vs Grid? Hexcodes vs RGBA?), but make sure you allow each group member to speak about their opinions and *Why* they want to work in a certain way.
+- Treat each project in the class as you would a task in the workspace. It is okay to disagree about certain parts of code (Flex vs Grid? Hexcodes vs RGBA?), but make sure you allow each group member to speak about their opinions and *Why* they want to work in a certain way.
 
-If we hear about people overwriting and deleting other member's contributions, stonewalling against another group member's ideas, or the use of any unprofessional, disrespectful, or other rude language or actions during this project, it will qualify as a Code of Conduct issue, and your instructional team will need to act accordingly
+- Do Not include anything that is culturally insensitive or offensive into any part of your project. You may think that edgy memes are funny: your teammates and managers may not. Keep them to yourself
+
+- If we hear about people overwriting and deleting other member's contributions, stonewalling against another group member's ideas, or the use of any unprofessional, disrespectful, or other rude language or actions during this project, it will qualify as a Code of Conduct issue, and your instructional team will need to act accordingly
 
 
 ## Plagiarism
 
 <img src="https://itisalwayssunrisesomewhere.wordpress.com/wp-content/uploads/2013/01/frodosamgollum3.jpg"/>
 
-Plagiarism in Group Projects is something we take seriously here at GA. While each case is different, know that if you are knowingly plagiarising your group, or if you are aware of a group member plagiarising major parts of the code, we may need to pursue some kind of action against an individual member, or the whole group.
+- Plagiarism in Group Projects is something we take seriously here at GA. While each case is different, know that if you are knowingly plagiarising your group, or if you are aware of a group member plagiarising major parts of the code, we may need to pursue some kind of action against an individual member, or the whole group.
 
-Your best move is to consult with your instructional team about anything you are concerned about to ensure that you and your group are all acting within GA's official Plagiarism guidelines
+- Your best move is to consult with your instructional team about anything you are concerned about to ensure that you and your group are all acting within GA's official Plagiarism guidelines
