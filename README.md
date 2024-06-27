@@ -52,8 +52,6 @@
 
 <img src="https://itisalwayssunrisesomewhere.wordpress.com/wp-content/uploads/2013/01/frodosamgollum3.jpg"/>
 
-- It is preferred to have your camera on while group mates are speaking to each other. You obviously may not need to have your camera on all the time you are together in a breakout room, but when speaking to each other it is considered better practice to have your camera on. Of course, it is fully acceptable to tell the team if you need to have it off for any reason for some time. You can expect managers, admin, team leaders and employers to want you to have your camera on during any professional meetings, so get in the habit of having it on, rather than keeping it off
-
 - You can expect your management, team leaders, coworkers, and investors to have a strict, Zero Tolerance policy on any rude, disrespectful, or unprofessional actions. So we are going to follow the same guidelines in preparation.
 
 - Treat each project in the class as you would a task in the workspace. It is okay to disagree about certain parts of code (Flex vs Grid? Hexcodes vs RGBA?), but make sure you allow each group member to speak about their opinions and *Why* they want to work in a certain way.
@@ -62,6 +60,15 @@
 
 - If we hear about people overwriting and deleting other member's contributions, stonewalling against another group member's ideas, or the use of any unprofessional, disrespectful, or other rude language or actions during this project, it will qualify as a Code of Conduct issue, and your instructional team will need to act accordingly
 
+
+## Zoom Etiquitte
+
+
+- It is preferred to have your camera on while group mates are speaking to each other. You obviously may not need to have your camera on all the time you are together in a breakout room, but when speaking to each other it is considered better practice to have your camera on. Of course, it is fully acceptable to tell the team if you need to have it off for any reason for some time. You can expect managers, admin, team leaders and employers to want you to have your camera on during any professional meetings, so get in the habit of having it on, rather than keeping it off
+
+- Do not Smoke, Vape, or any other unprofessional behavior while on camera. Its okay to eat some snacks and drink water while on, but no one wants to see you chug beers, throw back shots, or devour an entire sloppy joe sandwich in one bite on camera. If you are going to need to eat during any meetings, simply alert your team as to why you are keeping your camera off.
+
+- Be smart about this. *You'd think this would be common sense, but we all know how rare common sense can be*
 
 ## Plagiarism
 
