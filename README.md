@@ -52,6 +52,8 @@
 
 <img src="https://itisalwayssunrisesomewhere.wordpress.com/wp-content/uploads/2013/01/frodosamgollum3.jpg"/>
 
+- It is preferred to have your camera on while group mates are speaking to each other. You obviously may not need to have your camera on all the time you are together in a breakout room, but when speaking to each other it is considered better practice to have your camera on. Of course, it is fully acceptable to tell the team if you need to have it off for any reason for some time. You can expect managers, admin, team leaders and employers to want you to have your camera on during any professional meetings, so get in the habit of having it on, rather than keeping it off
+
 - You can expect your management, team leaders, coworkers, and investors to have a strict, Zero Tolerance policy on any rude, disrespectful, or unprofessional actions. So we are going to follow the same guidelines in preparation.
 
 - Treat each project in the class as you would a task in the workspace. It is okay to disagree about certain parts of code (Flex vs Grid? Hexcodes vs RGBA?), but make sure you allow each group member to speak about their opinions and *Why* they want to work in a certain way.
