@@ -61,8 +61,9 @@
 - If we hear about people overwriting and deleting other member's contributions, stonewalling against another group member's ideas, or the use of any unprofessional, disrespectful, or other rude language or actions during this project, it will qualify as a Code of Conduct issue, and your instructional team will need to act accordingly
 
 
-## Zoom Etiquitte
+## Zoom / On Screen Etiquitte
 
+<img src="https://www.theodysseyonline.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vbWVkaWEucmJsLm1zL2ltYWdlP3U9JTJGZmlsZXMlMkYyMDE2JTJGMDMlMkYwNCUyRjYzNTkyNjcxNjcyNTEzMDcyNDc5NDIwNjEwX2Y3OGJhYzNjLTYwNjAtNDg5My04NGQ1LWZlZjFjY2U0NjVmNC5naWYmYW1wO2hvPWh0dHBzJTNBJTJGJTJGYXo2MTY1Nzgudm8ubXNlY25kLm5ldCZhbXA7cz02NzUmYW1wO2g9ZjZkNmU1NjZiNjRmZjI3NGRmY2ZmMmY5NjU0NzE5NmYxMWE4MmE0NDAwMzI0MTQ2MTYxNzQyNGMyYWE0ZjE1NiZhbXA7c2l6ZT05ODB4JmFtcDtjPTQwMTAxNjcxIiwiZXhwaXJlc19hdCI6MTc0NTI5NzAyNX0.EGf5wmvtY0e7KXbcXA5KArvISAehpy9-7paSl7M9NrI/image.jpg?=undefined&quality=80"/>
 
 - It is preferred to have your camera on while group mates are speaking to each other. You obviously may not need to have your camera on all the time you are together in a breakout room, but when speaking to each other it is considered better practice to have your camera on. Of course, it is fully acceptable to tell the team if you need to have it off for any reason for some time. You can expect managers, admin, team leaders and employers to want you to have your camera on during any professional meetings, so get in the habit of having it on, rather than keeping it off
 
